@@ -12,3 +12,4 @@ const isPrime = (n) => {
   };
 
   // simple determine if prime function
+  // will prob need in future
