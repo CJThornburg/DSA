@@ -19,5 +19,7 @@ const anagrams = (s1, s2) => {
    }
    return true
 
-   
+
+  //  this one was cool, fairly simple answer. Did on my own
+
    };
