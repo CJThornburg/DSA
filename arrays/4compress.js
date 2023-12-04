@@ -47,6 +47,7 @@ const compress = (s) => {
 
   //     if (currentLetterMatch === s[j]){
 
+  
   //       currentLetterCount++
   //       j++
   //     } else {
