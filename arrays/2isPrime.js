@@ -10,3 +10,5 @@ const isPrime = (n) => {
   module.exports = {
     isPrime,
   };
+
+  // simple determine if prime function
